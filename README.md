@@ -11,7 +11,7 @@ Se você definir o parâmetro ```INSTALL_NGINX``` como ```True```, você também
 
 Já dentro da sua VM/Cloud/Terminal, copie e de enter:
 ```
-git clone https://github.com/guilbezerra/InstallScriptCIEL.git
+git clone https://github.com/juliobeledelli/InstallScriptCIEL.git
 ```
 
 ### 2. Permissão de execução:
